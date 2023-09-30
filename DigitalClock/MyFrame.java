@@ -1,4 +1,4 @@
-// package DigitalClock;
+package DigitalClock;
 
 import java.awt.Color;
 import java.awt.FlowLayout;

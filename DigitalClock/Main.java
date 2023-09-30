@@ -1,4 +1,4 @@
-// package DigitalClock;
+package DigitalClock;
 
 public class Main {
     public static void main(String[] args) {
